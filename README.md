@@ -79,4 +79,4 @@ Link no Power BI Service: **(https://app.powerbi.com/links/wGMIfRZ-cY?ctid=d4ec4
 
 ## Autoria
 
-Projeto desenvolvido por **[Felipe Bandeira]** como parte do desafio da DIO.
+Projeto desenvolvido por **Felipe Bandeira** como parte do desafio da DIO.
